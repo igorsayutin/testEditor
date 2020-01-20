@@ -1,0 +1,7 @@
+#predictions-list {
+  width: 600px;
+  margin: 10px auto;
+}
+.predictionWord {
+  cursor: pointer;
+}
